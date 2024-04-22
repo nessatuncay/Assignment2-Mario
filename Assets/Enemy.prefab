@@ -133,6 +133,7 @@ BoxCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -146,6 +147,8 @@ BoxCollider2D:
   m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
 =======
+=======
+>>>>>>> 073a3a4a87e43a06cbd919040826984fad58bc15
   m_Size: {x: 5, y: 6}
   m_Direction: 0
 --- !u!114 &4575160840825840387
@@ -161,4 +164,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkspeed: 0
+<<<<<<< HEAD
+>>>>>>> 073a3a4a87e43a06cbd919040826984fad58bc15
+=======
 >>>>>>> 073a3a4a87e43a06cbd919040826984fad58bc15
